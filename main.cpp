@@ -1,8 +1,8 @@
 #include <iostream>
-#include "test.h"
+#include "functions.h"
 
-int main() 
+int main()
 {
-    test_function();
+    MainMenu();
     return 0;
 }
