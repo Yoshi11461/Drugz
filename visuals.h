@@ -11,4 +11,6 @@ void displayInventory();
 void displayTravel();
 void displayPolicestation();
 
+void displayGrowingArea();
+
 #endif

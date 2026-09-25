@@ -1,5 +1,6 @@
 #include <iostream>
 #include "visuals.h"
+#include "drugLabFunctions.h"
 #include <unistd.h>
 #include <termios.h>
 #include <cstdlib>
@@ -117,6 +118,7 @@ void drugLab()
     switch (choice)
     {
         case '1':
+            growingArea();
             break;
         case '2':
             break;

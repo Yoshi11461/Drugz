@@ -106,3 +106,15 @@ void displayPolicestation()
     cout << "[2] Pay Fine" << endl;
     cout << "[3] Exit" << endl;
 }
+
+void displayGrowingArea()
+{
+    cout << "    Growing Area" << endl;
+    cout << endl;
+    cout << "===================" << endl;
+    cout << endl;
+    cout << "[1] View slots" << endl;
+    cout << "[2] View workers" << endl;
+    cout << "[3] View storage" << endl;
+    cout << "[4] Exit" << endl;
+}
