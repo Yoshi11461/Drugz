@@ -121,6 +121,7 @@ void drugLab()
             growingArea();
             break;
         case '2':
+            lab();
             break;
         case '3':
             gameMenu();

@@ -12,5 +12,6 @@ void displayTravel();
 void displayPolicestation();
 
 void displayGrowingArea();
+void displayLab();
 
 #endif

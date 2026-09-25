@@ -118,3 +118,24 @@ void displayGrowingArea()
     cout << "[3] View storage" << endl;
     cout << "[4] Exit" << endl;
 }
+
+void displayPlantslots()
+{
+    cout << "     Slots" << endl;
+    cout << endl;
+    cout << "=============" << endl;
+    cout << endl;
+}
+
+void displayLab()
+{
+    cout << "   Lab" << endl;
+    cout << endl;
+    cout << "===================" << endl;
+    cout << endl;
+    cout << "[1] Create new drug" << endl;
+    cout << "[2] View lab equipment" << endl;
+    cout << "[3] View lab workers" << endl;
+    cout << "[4] View lab storage" << endl;
+    cout << "[5] Exit" << endl;
+}

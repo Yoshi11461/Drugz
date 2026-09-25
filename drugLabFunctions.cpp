@@ -34,3 +34,29 @@ void growingArea()
             growingArea();
     }
 }
+
+void lab()
+{
+    system("clear");
+
+    displayLab();
+
+    char choice = leseTaste();
+
+    switch (choice)
+    {
+        case '1':
+            break;
+        case '2':
+            break;
+        case '3':
+            break;
+        case '4':
+            break;
+        case '5':
+            drugLab();
+            break;
+        default:
+            lab();
+    }
+}
